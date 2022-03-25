@@ -22,7 +22,7 @@ POST - /users
 body {
   "name": "Alexa Rodrigues",
   "email": "samuelfreitas_03@hotmail.com",
-  "password": "disadia2323",
+  "password": "disadia2323"
 }
 ```
 
@@ -32,7 +32,7 @@ PUT - /users/{id}
 body {
   "name": "Alexa Rodrigues",
   "email": "samuelfreitas_03@hotmail.com",
-  "password": "disadia2323",
+  "password": "disadia2323"
 }
 ```
 **Deletar um usuário cadastrado.**
