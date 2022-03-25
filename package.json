@@ -1,11 +1,11 @@
 {
   "name": "igniteOffice",
   "version": "1.0.0",
-  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/DevSamuelRodrigues/igniteOffice",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.26.1",
     "express": "^4.17.3"
   },
   "devDependencies": {
