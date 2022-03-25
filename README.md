@@ -6,8 +6,8 @@ Microserviço responsável por executar toda a regra de negócio de usuários e 
 - Execute os scripts abaixo (cada script em um terminal diferente).
 
 ### Scripts
-- `yarn start` ou `npm run start`: Inicia servidor com hot reload em http://localhost:3000.
-- `yarn start-database` ou `npm run start-database`: Inicia o banco de dados em http://localhost:3001.
+- `yarn start` ou `npm run start`: Inicia o microserviço em http://localhost:3000.
+- `yarn start-database` ou `npm run start-database`: Inicia o banco de dados.
 
 ## Rotas
 ### CRUD Usuário
