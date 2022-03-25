@@ -3,7 +3,7 @@ Microserviço responsável por executar toda a regra de negócio de usuários e 
 
 ## Como Iniciar a Aplicação
 - Execute o comando `yarn` ou `npm i`.
-- Execute os scripts abaixo.
+- Execute os scripts abaixo (cada script em um terminal diferente).
 
 ### Scripts
 - `yarn start` ou `npm run start`: Inicia servidor com hot reload em http://localhost:3000.
