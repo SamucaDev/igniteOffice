@@ -3,76 +3,24 @@
     {
       "name": "Samuel Freitas Rodrigues",
       "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 5
-    },
-    {
-      "name": "Samuel Freitas Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 6
-    },
-    {
-      "name": "Samuel Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 7
-    },
-    {
-      "name": "Patricia Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 8
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 9
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 10
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 11
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 12
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
-      "password": "disadia2323",
-      "id": 13
-    },
-    {
-      "name": "Alexa Rodrigues",
-      "email": "samuelfreitas_03@hotmail.com",
       "password": "ZGlzYWRpYTIzMjM=",
-      "id": 14
+      "id": 1
+    },
+    {
+      "name": "Andrew Filgueiras",
+      "email": "andrew@hotmail.com",
+      "password": "ZGlzYWRpYTIzMjM=",
+      "id": 2
     }
   ],
   "coworking": [
     {
       "name": "Paulista Coworking",
-      "id": 2
+      "id": 1
     },
     {
       "name": "Brigadeiro Coworking",
-      "id": 3
-    },
-    {
-      "name": "Liberdade Coworking",
-      "id": 4
+      "id": 2
     }
   ]
 }
